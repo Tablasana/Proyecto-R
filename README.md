@@ -1,5 +1,5 @@
 # Proyecto-R
-Realizado por Adrian Mendez carrasco
+Realizado por Adrián Méndez carrasco
 
 Respositorio creado para presentar el proyecto final de RStudio.
 Se compone de tres partes:
