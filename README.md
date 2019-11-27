@@ -7,7 +7,7 @@ Se compone de tres partes:
   - En la segunda, se estudian y comparan dos páginas de sintaxis en RMarkdown.
   - En la tercera parte, de carga un dataset externo, se muestra y se analiza muy brevemente, aportando tablas y graficos.
   
-  **Las librerias que son necesarias para ejecutar este archivo son las siguientes:
+  **Las librerias que son necesarias para ejecutar este archivo son las siguientes:**
 
 prettydoc
 ggplot2
