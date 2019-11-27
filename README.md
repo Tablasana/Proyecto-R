@@ -9,11 +9,11 @@ Se compone de tres partes:
   
   **Las librerias que son necesarias para ejecutar este archivo son las siguientes:**
 
-prettydoc
-ggplot2
-tidyverse
-reshape
-knitr
-kableExtra
+- prettydoc  
+- ggplot2   
+- tidyverse
+- reshape
+- knitr
+- kableExtra
 
 Muchas gracias por su atención.
